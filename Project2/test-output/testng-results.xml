@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2019-04-23T08:55:46Z" finished-at="2019-04-23T08:55:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2019-04-23T08:55:46Z" finished-at="2019-04-23T08:55:46Z">
+      <class name="Selenium.testng">
+        <test-method status="PASS" signature="bsuite()[pri:0, instance:Selenium.testng@5e5792a0]" name="bsuite" is-config="true" duration-ms="30" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuite -->
+        <test-method status="PASS" signature="btest()[pri:0, instance:Selenium.testng@5e5792a0]" name="btest" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method status="PASS" signature="bclass()[pri:0, instance:Selenium.testng@5e5792a0]" name="bclass" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:Selenium.testng@5e5792a0]" name="bmethod" is-config="true" duration-ms="10" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="t()[pri:0, instance:Selenium.testng@5e5792a0]" name="t" duration-ms="1" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+        <test-method status="PASS" signature="axlass()[pri:0, instance:Selenium.testng@5e5792a0]" name="axlass" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- axlass -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:Selenium.testng@5e5792a0]" name="atest" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:Selenium.testng@5e5792a0]" name="amethod" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="asuite()[pri:0, instance:Selenium.testng@5e5792a0]" name="asuite" is-config="true" duration-ms="0" started-at="2019-04-23T14:25:46Z" finished-at="2019-04-23T14:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuite -->
+      </class> <!-- Selenium.testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
