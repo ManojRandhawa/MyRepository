@@ -20,6 +20,7 @@ public class class1
 	}
 	public class1(int a,int b,int c) {
 		System.out.println("parent three parameterized");
+		System.out.println("Changed");
 	}
 	
 
